@@ -1,7 +1,7 @@
 # vikingMap
 Directions to some must see cities calculated with the shortest route!
 
-for easy viewing
+instructions for easy viewing:
 
 insert code in https://jsfiddle.net/
 
