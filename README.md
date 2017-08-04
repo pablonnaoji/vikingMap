@@ -1,5 +1,5 @@
 # vikingMap
-Directions to some must see cities calculated with the shortest route!
+Directions to some must see cities, calculated with the shortest route!
 
 instructions for easy viewing:
 
